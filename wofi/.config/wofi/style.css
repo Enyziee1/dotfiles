@@ -1,4 +1,4 @@
-@import url('/home/eli/.cache/wal/colors-waybar.css');
+@import url('/home/enyziee/.cache/wal/colors-waybar.css');
 
 @define-color mauve  @color9;
 @define-color red  @color9;
@@ -32,7 +32,7 @@ window {
     padding: 5px
     border: none;
 }
-#outer-box {    
+#outer-box {
     border: none;
 }
 #scroll {

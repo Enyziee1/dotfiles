@@ -6,7 +6,6 @@
         "modules-center": ["hyprland/workspaces"],
         "modules-right": ["group/expand","bluetooth","network","battery"],
 
-
         "hyprland/workspaces": {
             "format": "{icon}",
             "format-icons": {
@@ -39,7 +38,7 @@
             }
         },
         "network": {
-            "format-wifi": "",
+            "format-wifi": "{essid}  ",
             "format-ethernet":"",
             "format-disconnected": "",
             "tooltip-format-disconnected": "Error",
@@ -116,7 +115,6 @@
         "cpu": {
             "format": "󰻠",
             "tooltip": true,
-            "text": "12"
         },
         "memory": {
             "format": ""
