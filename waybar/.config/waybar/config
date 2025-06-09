@@ -38,7 +38,7 @@
             }
         },
         "network": {
-            "format-wifi": "{essid}  ",
+            "format-wifi": " ",
             "format-ethernet":"",
             "format-disconnected": "",
             "tooltip-format-disconnected": "Error",
